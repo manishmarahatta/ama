@@ -1,4 +1,4 @@
-Ask @manishmarahatta anything!
+#Ask @manishmarahatta anything!
 
 This is a quick little ask-me-anything type of repository.
 
@@ -6,7 +6,7 @@ Ask a question / Read questions
 
 Anything means anything. Personal questions. Work. Life. Code. Whatever.
 ---------------------------------------------------------------------------------------------------------------------------
-Ask a question
+#Ask a question
 
 Asking a question is as easy as <a href="https://github.com/manishmarahatta/ama/issues">creating a new issue </a>on this project.
 
